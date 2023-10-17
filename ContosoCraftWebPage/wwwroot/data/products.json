@@ -1,4 +1,4 @@
-// Here is my "poor man's DB" - a JSON file
+// Here is my "poor man's" DB - a JSON file
 [
   {
     "Id": "jenlooper-cactus",
@@ -10,6 +10,16 @@
     "Ratings": [
       5,
       5
+    ]
+  },
+  {
+    "Id":,
+    "Maker":,
+    "img":,
+    "Url":,
+    "Title":,
+    "Description":,
+    "Ratings": [
     ]
   }
 ]
